@@ -24,11 +24,17 @@ docker load -i meep-1.14.tar
 
 #### Version
 harminv-1.4.1
+
 libctl-4.5.0
+
 h5utils-1.13.1
+
 libGDSII-0.21
+
 nlopt-2.6.2
+
 mpb-1.10.0
+
 meep-1.14.0
 
 #### Reference
